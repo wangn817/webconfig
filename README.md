@@ -1,36 +1,9 @@
 <div align="center">
   <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
   <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</em></p>
-  <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
-    <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Xhofe/alist" alt="License" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/workflow/status/Xhofe/alist/build" alt="Build status" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/releases">
-    <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/releases">
-    <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA" alt="Downloads" />
-  </a>
-  <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
-    <img src="https://badges.crowdin.net/alist/localized.svg">
-  </a>
-  <a href="https://pay.xhofe.top">
-    <img src="https://img.shields.io/badge/%24-sponsor-ff69b4.svg" alt="sponsor" />
-  </a>
 </div>
 
 ---
-
-[English](./README.md) | 中文 | [Contributors](./CONTRIBUTORS.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
-
 ## Features
 
 - [x] 多种存储
