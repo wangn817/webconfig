@@ -58,7 +58,7 @@
 ## Special sponsors
 - [找资源 - 阿里云盘资源搜索引擎](https://zhaoziyuan.la/)
 - [KinhDown 百度云盘不限速下载！永久免费！已稳定运行3年！非常可靠!](https://kinhdown.com/?Type=Tutorials)
-- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
+- [百度云盘资源小站](https://www.yunpanziyuan.com/)
 
 ##  许可
 
