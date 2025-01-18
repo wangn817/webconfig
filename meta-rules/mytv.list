@@ -1,5 +1,12 @@
-+.makima.online
-+.cyun.com.cn
-+.cyun.cn
-+.616626.xyz
+# 自定义常用分流规则
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,makima
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,cyun.com.cn
+DOMAIN-SUFFIX,cyun.cn
+DOMAIN-SUFFIX,ydoo.vip
+DOMAIN-SUFFIX,616626.xyz
   
