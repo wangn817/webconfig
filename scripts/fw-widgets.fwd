@@ -1,6 +1,6 @@
 {
   "title": "Neo Widgets",
-  "description": "常用插件合集",
+  "description": "汇集豆瓣、TMDB、IMDB、猫眼和Bangumi的各类榜单;包括涩涩合集",
   "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon/icon1.PNG",
   "widgets": [
      {
